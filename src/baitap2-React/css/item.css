@@ -1,0 +1,16 @@
+.bg-items{
+    background-image: url('../glassesImage/model.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.bg-items .title{
+    font-size: 15px;
+    color: blue;
+    width: 25%;
+}
+.bg-items .detail{
+    font-size: 11px;
+    color: #fff;
+    line-height: 10px;
+}
