@@ -3,14 +3,36 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
+    width: 20%;
+    height: 230px;
+    line-height: 12PX;
 }
-.bg-items .title{
+.bg-items img{
+    width: 57%;
+    opacity: 0.5;
+    position: absolute;
+    top: 22%;
+    right: 22%;
+}
+.bg-items .price{
+    font-size: 12px;
+    margin-bottom: 5px;
+}
+.bg-items .name{
     font-size: 15px;
     color: blue;
-    width: 25%;
 }
-.bg-items .detail{
-    font-size: 11px;
+.bg-items .desc{
+    font-size: 10px;
     color: #fff;
-    line-height: 10px;
+}
+.select{
+    width: 70%;
+    margin-top: 50px;
+    flex-wrap: wrap;
+    gap:10px
+}
+.select img{
+    width: 10%;
+    border: 1px solid #000;
 }

@@ -9,8 +9,7 @@ class Home extends Component {
         return (
             <div className='home'>
                 <Header />
-                <div className='mx-auto d-flex flex-row justify-content-around w-75 mt-3'>
-                    <Item />
+                <div className=''>
                     <Item />
                 </div>
                 <Footer />
