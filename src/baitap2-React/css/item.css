@@ -9,10 +9,10 @@
 }
 .bg-items img{
     width: 57%;
-    opacity: 0.5;
+    
     position: absolute;
-    top: 22%;
-    right: 22%;
+    top: 23%;
+    right: 21%;
 }
 .bg-items .price{
     font-size: 12px;
@@ -33,6 +33,6 @@
     gap:10px
 }
 .select img{
-    width: 10%;
+    width: 15%;
     border: 1px solid #000;
 }

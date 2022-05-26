@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './css/item.css';
-import g3 from "../glassesImage/g3.jpg";
+import g3 from "../glassesImage/v3.png";
 
 class Item extends Component {
     render() {
