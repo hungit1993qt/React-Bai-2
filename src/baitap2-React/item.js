@@ -31,7 +31,6 @@ class Item extends Component {
                     <img src={g3} />
 
                 </div>
-
             </div>
         );
     }
